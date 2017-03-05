@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jira-restapi-gapps.iml" filepath="$PROJECT_DIR$/jira-restapi-gapps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-manual/user-manual.iml" filepath="$PROJECT_DIR$/user-manual/user-manual.iml" />
+    </modules>
+  </component>
+</project>
