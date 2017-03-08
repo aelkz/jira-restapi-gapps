@@ -1,0 +1,66 @@
+// LICENSE
+// http://choosealicense.com/licenses/
+
+// URI ENCODE
+// http://www.w3schools.com/tags/ref_urlencode.asp
+
+// JIRA REST RESOURCES
+// https://jira.mycompany.com/rest/api/2/field
+// https://jira.mycompany.com/rest/api/2/myself
+// https://jira.mycompany.com/rest/api/2/serverInfo
+// https://jira.mycompany.com/rest/auth/1/session
+
+// JIRA ADVANCED SEARCH API
+// https://confluence.atlassian.com/jira/advanced-searching-179442050.html#AdvancedSearching-Assignee
+
+// JIRA HOST
+// https://jira.mycompany.com
+// https://jira.mycompany.com/secure/Dashboard.jspa
+
+// JIRA ISSUE <EPIC>
+// https://confluence.atlassian.com/agile/jira-agile-user-s-guide/working-with-epics/adding-an-issue-to-an-epic
+// https://answers.atlassian.com/questions/115733/how-to-attribute-issue-to-epic-via-api
+// https://confluence.atlassian.com/jirakb/set-the-epic-link-via-rest-call-779158620.html
+// https://answers.atlassian.com/questions/15270378/create-sprint-using-greenhopper-with-custom-name
+// https://answers.atlassian.com/questions/151204/how-to-create-a-sprint-using-the-greenhopper-rest-api
+
+// JSON & GOOGLE API
+// http://www.littlebluemonkey.com/blog/automatically-import-jira-backlog-into-google-spreadsheet
+// https://ctrlq.org/code/20004-google-spreadsheets-json
+// https://medium.com/@paulgambill/how-to-import-json-data-into-google-spreadsheets-in-less-than-5-minutes-a3fede1a014a#.87seusl51
+// https://developers.google.com/apps-script/guides/html/
+// https://developers.google.com/apps-script/guides/web#deploying
+// https://developers.google.com/apps-script/guides/html/templates
+// https://developers.google.com/apps-script/guides/html/best-practices
+// https://ctrlq.org/code/19954-html-service-google-scripts
+// https://www.topcoder.com/blog/a-simple-webapp-using-google-apps-scripts/
+// https://mogsdad.wordpress.com/2015/07/19/converting-from-uiapp-chart-service-to-html-service-google-visualization-api/
+// http://blog.knoldus.com/2013/01/27/google-apps-script-create-user-interface-using-html-css-javasript/
+// http://ramblings.mcpher.com/Home/excelquirks/gassnips/argshtmlservice
+// http://stackoverflow.com/questions/34148694/new-to-google-apps-scripts-html-service
+// http://stackoverflow.com/questions/32527682/auto-close-modal-dialog
+// https://developers.google.com/apps-script/guides/dialogs
+// http://stackoverflow.com/questions/31282945/open-dialog-and-close-sidebar-in-google-apps-script
+// https://developers.google.com/apps-script/guides/html/communication
+// http://stackoverflow.com/questions/11487045/how-to-use-google-script-run-as-if-it-was-a-function
+// https://mogsdad.wordpress.com/2015/07/19/converting-from-uiapp-chart-service-to-html-service-google-visualization-api/
+// http://stackoverflow.com/questions/31648634/google-apps-script-can-not-include-css
+// http://stackoverflow.com/questions/12500654/uncaught-referenceerror-google-is-not-defined
+// http://www.labnol.org/internet/write-google-docs-addon/28446/
+// http://pipetree.com/qmacro/blog/2013/10/sheetasjson-google-spreadsheet-data-as-json/
+
+// GOOGLE APPS - ECLIPSE
+// https://developers.google.com/eclipse/docs/apps_script
+
+// JAVASCRIPT - DATE
+// http://www.geekzilla.co.uk/View00FF7904-B510-468C-A2C8-F859AA20581F.htm
+
+// JAVASCRIPT - URL ENCODE
+// http://www.w3schools.com/tags/ref_urlencode.asp
+
+// JQUERY - TIPS
+// http://stackoverflow.com/questions/7186914/is-there-any-way-to-call-function-before-document-ready-in-jquery
+// http://stackoverflow.com/questions/4098504/running-a-function-just-before-document-ready-triggers
+
+// IMPORT JSON (FUNCTION)
+// http://blog.fastfedora.com/projects/import-json
